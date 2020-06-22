@@ -1,8 +1,3 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2020 All Rights Reserved.
- */
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
